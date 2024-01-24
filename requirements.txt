@@ -1,0 +1,6 @@
+Pandas
+Numpy
+scikit-learn
+Joblib
+Pickle
+streamlit
